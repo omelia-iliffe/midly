@@ -43,4 +43,4 @@ serde = ["dep:serde"]
 
 [dependencies]
 rayon = { version = "1", optional = true }
-serde = { version = "1.0.198", optional = true, features = ["derive"] }
+serde = { version = "1", optional = true, features = ["derive"] }
